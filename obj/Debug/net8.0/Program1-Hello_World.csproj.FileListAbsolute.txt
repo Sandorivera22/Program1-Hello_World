@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\bin\Debug\net8.0\Program1-Hello_World.exe
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\bin\Debug\net8.0\Program1-Hello_World.deps.json
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\bin\Debug\net8.0\Program1-Hello_World.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\bin\Debug\net8.0\Program1-Hello_World.dll
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\bin\Debug\net8.0\Program1-Hello_World.pdb
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\Program1-Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\Program1-Hello_World.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\Program1-Hello_World.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\Program1-Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\Program1-Hello_World.dll
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\refint\Program1-Hello_World.dll
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\Program1-Hello_World.pdb
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\Program1-Hello_World.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Program1-Hello_World\obj\Debug\net8.0\ref\Program1-Hello_World.dll
